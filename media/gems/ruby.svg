@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 512px; width: 512px;">
+   <defs>
+      <filter id="shadow-1" height="300%" width="300%" x="-100%" y="-100%">
+         <feFlood flood-color="rgba(255, 255, 255, 1)" result="flood" />
+         <feComposite in="flood" in2="SourceGraphic" operator="atop" result="composite" />
+         <feGaussianBlur in="composite" stdDeviation="15" result="blur" />
+         <feOffset dx="0" dy="0" result="offset" />
+         <feComposite in="SourceGraphic" in2="offset" operator="over" />
+      </filter>
+      <filter id="shadow-12" height="300%" width="300%" x="-100%" y="-100%">
+         <feFlood flood-color="rgba(255, 255, 255, 1)" result="flood" />
+         <feComposite in="flood" in2="SourceGraphic" operator="atop" result="composite" />
+         <feGaussianBlur in="composite" stdDeviation="15" result="blur" />
+         <feOffset dx="0" dy="0" result="offset" />
+         <feComposite in="SourceGraphic" in2="offset" operator="over" />
+      </filter>
+      <filter id="shadow-13" height="300%" width="300%" x="-100%" y="-100%">
+         <feFlood flood-color="rgba(255, 255, 255, 1)" result="flood" />
+         <feComposite in="flood" in2="SourceGraphic" operator="atop" result="composite" />
+         <feGaussianBlur in="composite" stdDeviation="15" result="blur" />
+         <feOffset dx="0" dy="0" result="offset" />
+         <feComposite in="SourceGraphic" in2="offset" operator="over" />
+      </filter>
+      <filter id="shadow-14" height="300%" width="300%" x="-100%" y="-100%">
+         <feFlood flood-color="rgba(255, 255, 255, 1)" result="flood" />
+         <feComposite in="flood" in2="SourceGraphic" operator="atop" result="composite" />
+         <feGaussianBlur in="composite" stdDeviation="15" result="blur" />
+         <feOffset dx="0" dy="0" result="offset" />
+         <feComposite in="SourceGraphic" in2="offset" operator="over" />
+      </filter>
+      <radialGradient id="faithtoken-minerals-gradient-0">
+         <stop offset="0%" stop-color="#fc88fc" stop-opacity="1" />
+         <stop offset="100%" stop-color="#59197e" stop-opacity="1" />
+      </radialGradient>
+      <radialGradient id="faithtoken-minerals-gradient-1">
+         <stop offset="0%" stop-color="#7ed321" stop-opacity="1" />
+         <stop offset="100%" stop-color="#bd10e0" stop-opacity="1" />
+      </radialGradient>
+      <radialGradient id="faithtoken-minerals-gradient-2">
+         <stop offset="0%" stop-color="#f5a623" stop-opacity="1" />
+         <stop offset="100%" stop-color="#d0021b" stop-opacity="1" />
+      </radialGradient>
+      <radialGradient id="faithtoken-minerals-gradient-3">
+         <stop offset="0%" stop-color="#f8e71c" stop-opacity="1" />
+         <stop offset="100%" stop-color="#4a90e2" stop-opacity="1" />
+      </radialGradient>
+      <radialGradient id="faithtoken-minerals-gradient-4">
+         <stop offset="0%" stop-color="#f5a623" stop-opacity="1" />
+         <stop offset="100%" stop-color="#d0021b" stop-opacity="1" />
+      </radialGradient>
+      <radialGradient id="faithtoken-minerals-gradient-5">
+         <stop offset="0%" stop-color="#f5a623" stop-opacity="1" />
+         <stop offset="100%" stop-color="#d0021b" stop-opacity="1" />
+      </radialGradient>
+      <radialGradient id="faithtoken-minerals-gradient-7">
+         <stop offset="0%" stop-color="#f5a623" stop-opacity="1" />
+         <stop offset="100%" stop-color="#d0021b" stop-opacity="1" />
+      </radialGradient>
+      <radialGradient id="faithtoken-minerals-gradient-9">
+         <stop offset="0%" stop-color="#f5a623" stop-opacity="1" />
+         <stop offset="100%" stop-color="#d0021b" stop-opacity="1" />
+      </radialGradient>
+   </defs>
+   <g class="" transform="translate(0,-2)" style="">
+      <g>
+         <path d="M263.396 491.136L242.093 360.006L228.977 487.853L184.719 463.26L233.743 294.313L274.865 361.643L294.53 453.435L263.396 491.135Z" class="" fill="url(#faithtoken-minerals-gradient-2)" stroke="#000000" stroke-opacity="1" stroke-width="5" />
+         <path d="M170.646 431.78L141.676 429.538L77.516 324.148L73.368 241.238L151.831 271.578L202.931 339.544L186.533 402.496L123.428 319.45L170.648 431.78Z" class="" fill="url(#faithtoken-minerals-gradient-4)" stroke="#000000" stroke-opacity="1" stroke-width="5" />
+         <path d="M316.309 403.024L299.289 400.897L290.781 357.273L276.501 330.499L368.295 238.706L399.445 248.531L386.33 322.295L316.31 403.023Z" class="" fill="url(#faithtoken-minerals-gradient-5)" stroke="#000000" stroke-opacity="1" stroke-width="5" />
+         <path d="M334.657 361.13L361.927 328.61L371.907 287.687L346.724 320.207L334.657 361.13Z" class="" fill="#ffffff" stroke="#000000" stroke-opacity="1" stroke-width="5" fill-opacity="1" />
+         <path d="M209.74 322.725L171.213 271.105L193.343 162.08L270.389 67.028L333.494 152.255L326.944 257.99L267.932 318.63L230.232 261.257L209.739 322.725Z" class="" fill="url(#faithtoken-minerals-gradient-7)" stroke="#000000" stroke-opacity="1" stroke-width="5" />
+         <path d="M257.06 275.475L284.24 180.875L308.978 158.017L280.948 161.867L269.816 118.587L263.258 161.867L217.913 167.383L263.021 183.553L257.061 275.473Z" class="" fill="#ffffff" stroke="#000000" stroke-opacity="1" stroke-width="5" fill-opacity="1" />
+         <path d="M159.812 255.748L131.936 211.481L141.776 118.068L172.919 180.354L159.811 255.749Z" class="selected" fill="url(#faithtoken-minerals-gradient-9)" stroke="#000000" stroke-opacity="1" stroke-width="5" />
+      </g>
+   </g>
+</svg>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 512px; width: 512px;">
+   <defs>
+      <filter id="shadow-1" height="300%" width="300%" x="-100%" y="-100%">
+         <feFlood flood-color="rgba(255, 255, 255, 1)" result="flood" />
+         <feComposite in="flood" in2="SourceGraphic" operator="atop" result="composite" />
+         <feGaussianBlur in="composite" stdDeviation="15" result="blur" />
+         <feOffset dx="0" dy="0" result="offset" />
+         <feComposite in="SourceGraphic" in2="offset" operator="over" />
+      </filter>
+      <radialGradient id="faithtoken-ore-gradient-0">
+         <stop offset="0%" stop-color="#fc88fc" stop-opacity="1" />
+         <stop offset="100%" stop-color="#59197e" stop-opacity="1" />
+      </radialGradient>
+      <linearGradient id="faithtoken-ore-gradient-2" x1="0" x2="1" y1="1" y2="0">
+         <stop offset="0%" stop-color="#4a4a4a" stop-opacity="1" />
+         <stop offset="100%" stop-color="#9b9b9b" stop-opacity="1" />
+      </linearGradient>
+      <radialGradient id="faithtoken-ore-gradient-3">
+         <stop offset="0%" stop-color="#4a4a4a" stop-opacity="1" />
+         <stop offset="100%" stop-color="#000000" stop-opacity="1" />
+      </radialGradient>
+      <radialGradient id="faithtoken-ore-gradient-4">
+         <stop offset="0%" stop-color="#d0021b" stop-opacity="1" />
+         <stop offset="100%" stop-color="#750212" stop-opacity="1" />
+      </radialGradient>
+      <radialGradient id="faithtoken-ore-gradient-5">
+         <stop offset="0%" stop-color="#4a4a4a" stop-opacity="1" />
+         <stop offset="100%" stop-color="#000000" stop-opacity="1" />
+      </radialGradient>
+      <radialGradient id="faithtoken-ore-gradient-6">
+         <stop offset="0%" stop-color="#4a4a4a" stop-opacity="1" />
+         <stop offset="100%" stop-color="#000000" stop-opacity="1" />
+      </radialGradient>
+      <radialGradient id="faithtoken-ore-gradient-7">
+         <stop offset="0%" stop-color="#4a4a4a" stop-opacity="1" />
+         <stop offset="100%" stop-color="#000000" stop-opacity="1" />
+      </radialGradient>
+      <radialGradient id="faithtoken-ore-gradient-9">
+         <stop offset="0%" stop-color="#4a4a4a" stop-opacity="1" />
+         <stop offset="100%" stop-color="#000000" stop-opacity="1" />
+      </radialGradient>
+   </defs>
+   <g class="" transform="translate(0,0)" style="">
+      <g>
+         <path d="M344.578 493.54L227.364 491.516L118.9 338.536L133.255 287.183L168.519 296.563L208.664 338.596L191.197 278.722L215.033 243.364L172.285 139.33L215.45 59.88L287.884 82.348L334.144 162.808L304.67 167.808L266.192 132.791L288.76 180.855L288.088 218.219L261.998 236.443L296.948 237.727L344.093 261.562L372.843 233.688L411.331 252.745L421.978 290.323L403.008 276.539L324.842 316.506L279.859 301.116L285.719 273.963L242.953 277.237L266.526 289.15L257.036 312.093L315.073 343.378L335.413 422.801L319.963 457.531L349.36 437.171L416.19 427.733L344.58 493.543Z" class="" fill="url(#faithtoken-ore-gradient-2)" stroke="#000000" stroke-opacity="1" stroke-width="5" />
+         <path d="M186.054 490.002L132.574 487.706L160.237 423.7L194.617 473.395L186.054 490.002Z" class="" fill="url(#faithtoken-ore-gradient-3)" stroke="#4a4a4a" stroke-opacity="1" stroke-width="5" />
+         <path d="M352.257 419.754L330.692 335.526L402.734 296.536L456.417 355.858L437.752 408.088L352.257 419.754Z" class="" fill="url(#faithtoken-ore-gradient-5)" stroke="#4a4a4a" stroke-opacity="1" stroke-width="5" />
+         <path d="M169.47 280.677L110.337 265.065L90.039 195.905L156.103 158.455L193.043 242.581L169.47 280.678Z" class="" fill="url(#faithtoken-ore-gradient-6)" stroke="#4a4a4a" stroke-opacity="1" stroke-width="5" />
+         <path d="M341.576 241.705L303.191 222.045L304.765 183.185L348.372 173.268L375.125 212.564L341.578 241.704Z" class="" fill="url(#faithtoken-ore-gradient-7)" stroke="#4a4a4a" stroke-opacity="1" stroke-width="5" />
+         <path d="M327.01 124.9L298.344 68.138L269.372 60.178L292.017 18.46L321.329 32.738L339.169 92.28L327.009 124.9Z" class="selected" fill="url(#faithtoken-ore-gradient-9)" stroke="#4a4a4a" stroke-opacity="1" stroke-width="5" />
+      </g>
+   </g>
+</svg>

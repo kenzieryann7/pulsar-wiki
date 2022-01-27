@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 512px; width: 512px;">
+   <defs>
+      <filter id="shadow-1" height="300%" width="300%" x="-100%" y="-100%">
+         <feFlood flood-color="rgba(255, 255, 255, 1)" result="flood" />
+         <feComposite in="flood" in2="SourceGraphic" operator="atop" result="composite" />
+         <feGaussianBlur in="composite" stdDeviation="15" result="blur" />
+         <feOffset dx="0" dy="0" result="offset" />
+         <feComposite in="SourceGraphic" in2="offset" operator="over" />
+      </filter>
+      <filter id="shadow-12" height="300%" width="300%" x="-100%" y="-100%">
+         <feFlood flood-color="rgba(255, 255, 255, 1)" result="flood" />
+         <feComposite in="flood" in2="SourceGraphic" operator="atop" result="composite" />
+         <feGaussianBlur in="composite" stdDeviation="15" result="blur" />
+         <feOffset dx="0" dy="0" result="offset" />
+         <feComposite in="SourceGraphic" in2="offset" operator="over" />
+      </filter>
+      <filter id="shadow-13" height="300%" width="300%" x="-100%" y="-100%">
+         <feFlood flood-color="rgba(255, 255, 255, 1)" result="flood" />
+         <feComposite in="flood" in2="SourceGraphic" operator="atop" result="composite" />
+         <feGaussianBlur in="composite" stdDeviation="15" result="blur" />
+         <feOffset dx="0" dy="0" result="offset" />
+         <feComposite in="SourceGraphic" in2="offset" operator="over" />
+      </filter>
+      <filter id="shadow-14" height="300%" width="300%" x="-100%" y="-100%">
+         <feFlood flood-color="rgba(255, 255, 255, 1)" result="flood" />
+         <feComposite in="flood" in2="SourceGraphic" operator="atop" result="composite" />
+         <feGaussianBlur in="composite" stdDeviation="15" result="blur" />
+         <feOffset dx="0" dy="0" result="offset" />
+         <feComposite in="SourceGraphic" in2="offset" operator="over" />
+      </filter>
+      <radialGradient id="lorc-crystal-bars-gradient-0">
+         <stop offset="0%" stop-color="#fc88fc" stop-opacity="1" />
+         <stop offset="100%" stop-color="#59197e" stop-opacity="1" />
+      </radialGradient>
+      <radialGradient id="lorc-crystal-bars-gradient-1">
+         <stop offset="0%" stop-color="#7ed321" stop-opacity="1" />
+         <stop offset="100%" stop-color="#bd10e0" stop-opacity="1" />
+      </radialGradient>
+      <radialGradient id="lorc-crystal-bars-gradient-2">
+         <stop offset="0%" stop-color="#7ed321" stop-opacity="1" />
+         <stop offset="100%" stop-color="#417505" stop-opacity="1" />
+      </radialGradient>
+      <radialGradient id="lorc-crystal-bars-gradient-3">
+         <stop offset="0%" stop-color="#f8e71c" stop-opacity="1" />
+         <stop offset="100%" stop-color="#4a90e2" stop-opacity="1" />
+      </radialGradient>
+      <radialGradient id="lorc-crystal-bars-gradient-6">
+         <stop offset="0%" stop-color="#50e3c2" stop-opacity="1" />
+         <stop offset="100%" stop-color="#9013fe" stop-opacity="1" />
+      </radialGradient>
+      <radialGradient id="lorc-crystal-bars-gradient-8">
+         <stop offset="0%" stop-color="#7ed321" stop-opacity="1" />
+         <stop offset="100%" stop-color="#000000" stop-opacity="1" />
+      </radialGradient>
+      <radialGradient id="lorc-crystal-bars-gradient-9">
+         <stop offset="0%" stop-color="#f5a623" stop-opacity="1" />
+         <stop offset="100%" stop-color="#d0021b" stop-opacity="1" />
+      </radialGradient>
+   </defs>
+   <g class="" transform="translate(0,-2)" style="">
+      <g>
+         <path d="M196.844 14.125L188.094 17.031L144.874 30.471L141.374 31.626L139.624 34.564L30.75 206.593L16.75 227.625L22.094 242.781L41.5 308.47L43.844 315.47L51.438 314.875L125.594 310.188L132.031 309.625L133.781 303.781L210.876 64.345L212.032 61.407L210.877 58.501L199.752 22.876L197.722 16.782L197.69 16.532L197.658 16.532L196.846 14.127Z" class="" fill="url(#lorc-crystal-bars-gradient-2)" stroke="#000000" stroke-opacity="1" stroke-width="5" />
+         <path d="M320.656 19.375L317.75 25.219L299.625 66.093L297.875 69.593L299.063 73.687L383.156 274L384.906 278.656L389.563 279.844L454.406 293.874L462 295.031L462 295L464.906 288L491.781 227.28L493.531 223.188L491.781 219.094L390.157 28.688L387.814 24.031L382.564 23.439L327.094 19.939L320.657 19.376Z" class="" fill="url(#lorc-crystal-bars-gradient-3)" stroke="#000000" stroke-opacity="1" stroke-width="5" />
+         <path d="M184.594 37.47L192.156 61.406L191.25 64.25L101.656 238.375L125.281 269.469L118.407 290.779L85.627 248.279L43.064 247.437L38 230.188L39 228.625L85.094 229.563L183.72 37.75L184.594 37.47Z" class="" fill="#ffffff" stroke="#000000" stroke-opacity="1" stroke-width="5" fill-opacity="1" />
+         <path d="M331.75 39.22L348.22 40.094L424.563 193.314L461.063 201.688L472.593 223.406L424.125 212.75L416.905 266.188L398.469 262.344L407.093 201L329.563 44.28L331.749 39.22Z" class="selected" fill="#ffffff" stroke="#000000" stroke-opacity="1" stroke-width="5" fill-opacity="1" />
+         <path d="M252.313 124.5L247.063 128L209.688 153.094L206.188 155.438L205.594 159.531L166.47 416.5L165.906 421.75L169.969 425.25L246.499 488.906L252.905 494.188L258.749 488.906L334.093 422.344L338.187 419.406L337.593 414.75L308.968 163.625L308.404 159.531L304.311 157.189L257.591 127.407L252.311 124.501Z" class="" fill="url(#lorc-crystal-bars-gradient-6)" stroke="#000000" stroke-opacity="1" stroke-width="5" />
+         <path d="M252.875 147.03L272.375 159.125L284.625 361.531L315.469 386.439L318.312 411.251L317.437 412.031L276.843 379.126L201.687 427.314L186.593 414.844L266.03 364.157L252.875 147.032Z" class="" fill="#ffffff" stroke="#000000" stroke-opacity="1" stroke-width="5" fill-opacity="1" />
+         <path d="M361.313 295.375L353.813 332.938L386.031 426.938L419.626 441.906L439.064 402.531L390.97 317.376L361.313 295.376Z" class="" fill="url(#lorc-crystal-bars-gradient-8)" stroke="#000000" stroke-opacity="1" stroke-width="5" />
+         <path d="M108.625 350.5L78.938 361.313L32 431.47L34.625 466.063L65.813 453.313L112.75 383.125L108.625 350.5Z" class="" fill="url(#lorc-crystal-bars-gradient-9)" stroke="#000000" stroke-opacity="1" stroke-width="5" />
+      </g>
+   </g>
+</svg>
