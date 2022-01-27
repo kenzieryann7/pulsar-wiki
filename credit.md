@@ -26,6 +26,6 @@
 - [Rocket thruster icon](https://game-icons.net/1x1/delapouite/rocket-thruster.html) by Delapouite under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Vortex icon](https://game-icons.net/1x1/lorc/vortex.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Star satellites icon](https://game-icons.net/1x1/lorc/star-sattelites.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-- [Gold shell icon](https://game-icons.net/1x1/lorc/star-sattelites.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Gold shell icon](https://game-icons.net/1x1/lorc/gold-shell.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Shieldcomb icon](https://game-icons.net/1x1/lorc/shieldcomb.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - [Cash icon](https://game-icons.net/1x1/lorc/cash.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
