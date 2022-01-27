@@ -1,31 +1,31 @@
 # Credit
 
 ## Icons
-- [Minerals icon](https://game-icons.net/1x1/faithtoken/minerals.html) by Faithtoken
-- [Ore icon](https://game-icons.net/1x1/faithtoken/ore.html) by Faithtoken
-- [Emerald icon](https://game-icons.net/1x1/lorc/emerald.html) by Lorc
-- [Sapphire icon](https://game-icons.net/1x1/lorc/saphir.html) by Lorc
-- [Crystal bars icon](https://game-icons.net/1x1/lorc/crystal-bars.html) by Lorc
-- [Astrolabe icon](https://game-icons.net/1x1/caro-asercion/astrolabe.html) by Caro Asercion
-- [Lazer blast icon](https://game-icons.net/1x1/lorc/laser-blast.html) by Lorc
-- [Mechanical arm icon](https://game-icons.net/1x1/lorc/mechanical-arm.html) by Lorc
-- [Drill icon](https://game-icons.net/1x1/lorc/drill.html) by Lorc
-- [Cog lock icon](https://game-icons.net/1x1/lorc/cog-lock.html) by Lorc
-- [Microchip icon](https://game-icons.net/1x1/lorc/microchip.html) by Lorc
-- [CPU shot icon](https://game-icons.net/1x1/lorc/cpu-shot.html) by Lorc
-- [Disc icon](https://game-icons.net/1x1/lorc/disc.html) by Lorc
-- [Ram icon](https://game-icons.net/1x1/lorc/ram.html) by Lorc
-- [Processor icon](https://game-icons.net/1x1/lorc/processor.html) by Lorc
-- [Power generator icon](https://game-icons.net/1x1/delapouite/power-generator.html) by Delapouite
-- [Musical keyboard icon](https://game-icons.net/1x1/delapouite/musical-keyboard.html) by Delapouite
-- [Atom icon](https://game-icons.net/1x1/skoll/atom.html) by Skoll
-- [Molecule icon](https://game-icons.net/1x1/skoll/molecule.html) by Skoll
-- [Sinusoidal Beam icon](https://game-icons.net/1x1/lorc/sinusoidal-beam.html) by Lorc
-- [Light Sabers icon](https://game-icons.net/1x1/delapouite/light-sabers.html) by Delapouite
-- [Double ringed orb icon](https://game-icons.net/1x1/lorc/double-ringed-orb.html) by Lorc
-- [Rocket thruster icon](https://game-icons.net/1x1/delapouite/rocket-thruster.html) by Delapouite
-- [Vortex icon](https://game-icons.net/1x1/lorc/vortex.html) by Lorc
-- [Star satellites icon](https://game-icons.net/1x1/lorc/star-sattelites.html) by Lorc
-- [Gold shell icon](https://game-icons.net/1x1/lorc/star-sattelites.html) by Lorc
-- [Shieldcomb icon](https://game-icons.net/1x1/lorc/shieldcomb.html) by Lorc
-- [Cash icon](https://game-icons.net/1x1/lorc/cash.html) by Lorc
+- [Minerals icon](https://game-icons.net/1x1/faithtoken/minerals.html) by Faithtoken under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Ore icon](https://game-icons.net/1x1/faithtoken/ore.html) by Faithtoken under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Emerald icon](https://game-icons.net/1x1/lorc/emerald.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Sapphire icon](https://game-icons.net/1x1/lorc/saphir.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Crystal bars icon](https://game-icons.net/1x1/lorc/crystal-bars.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Astrolabe icon](https://game-icons.net/1x1/caro-asercion/astrolabe.html) by Caro Asercion under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Lazer blast icon](https://game-icons.net/1x1/lorc/laser-blast.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Mechanical arm icon](https://game-icons.net/1x1/lorc/mechanical-arm.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Drill icon](https://game-icons.net/1x1/lorc/drill.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Cog lock icon](https://game-icons.net/1x1/lorc/cog-lock.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Microchip icon](https://game-icons.net/1x1/lorc/microchip.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [CPU shot icon](https://game-icons.net/1x1/lorc/cpu-shot.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Disc icon](https://game-icons.net/1x1/lorc/disc.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Ram icon](https://game-icons.net/1x1/lorc/ram.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Processor icon](https://game-icons.net/1x1/lorc/processor.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Power generator icon](https://game-icons.net/1x1/delapouite/power-generator.html) by Delapouite under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Musical keyboard icon](https://game-icons.net/1x1/delapouite/musical-keyboard.html) by Delapouite under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Atom icon](https://game-icons.net/1x1/skoll/atom.html) by Skoll under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Molecule icon](https://game-icons.net/1x1/skoll/molecule.html) by Skoll under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Sinusoidal Beam icon](https://game-icons.net/1x1/lorc/sinusoidal-beam.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Light Sabers icon](https://game-icons.net/1x1/delapouite/light-sabers.html) by Delapouite under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Double ringed orb icon](https://game-icons.net/1x1/lorc/double-ringed-orb.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Rocket thruster icon](https://game-icons.net/1x1/delapouite/rocket-thruster.html) by Delapouite under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Vortex icon](https://game-icons.net/1x1/lorc/vortex.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Star satellites icon](https://game-icons.net/1x1/lorc/star-sattelites.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Gold shell icon](https://game-icons.net/1x1/lorc/star-sattelites.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Shieldcomb icon](https://game-icons.net/1x1/lorc/shieldcomb.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- [Cash icon](https://game-icons.net/1x1/lorc/cash.html) by Lorc under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
