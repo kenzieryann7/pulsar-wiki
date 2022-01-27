@@ -1,4 +1,4 @@
-# Credit
+# Attributions
 
 ## Icons
 - [Minerals icon](https://game-icons.net/1x1/faithtoken/minerals.html) by Faithtoken under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
