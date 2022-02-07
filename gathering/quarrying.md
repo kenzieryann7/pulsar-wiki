@@ -1,4 +1,4 @@
-# Tools
+# Quarrying
 
 | Level | Tool Components | Total
 | ---- | ---- | ---- |

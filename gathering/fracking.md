@@ -1,7 +1,4 @@
-# Tools
-
-
-[Tools Calculator](https://slyboots.studio/iqrpg-tools-calculator/ ':include :type=iframe width=100% height=500px frameBorder=0')
+# Fracking
 
 | Level | Tool Components | Total
 | ---- | ---- | ---- |

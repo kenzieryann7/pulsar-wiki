@@ -1,4 +1,4 @@
-# Dungeons
+# Voyages
 
 Dungeons are a way to gain certain types of resources in bulk. The type of dungeons you can enter depends on two factors, your dungeoneering level and if you have a key for that specific dungeon.
 

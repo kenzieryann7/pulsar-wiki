@@ -1,31 +1,33 @@
 <!-- docs/_sidebar.md -->
-
-* [Main](/)
-
-<hr>
-
-* Guides
-  * [Walkthrough](guides/walkthrough.md)
-  * [Beginners](guides/beginners.md)
-  * [Battler](guides/battler.md)
-  * [Gatherer](guides/gatherer.md)
-
-<!-- <hr> -->
-
-<!-- * Battling  -->
+* [Home](/)
 
 <hr>
 
-* Gathering
-  * [Tools](gathering/tools.md)
-<!-- * [Gathering Upgrade](gathering/gatheringupgrade.md) -->
-<!-- * [Skill Shards](gathering/shards.md) -->
+* [Ship Dock](/)
 
+* **Combat**
+  * [Combat](combat.md)
+  * [Voyages](voyages.md)
 
+* **Crew**
+  * [Personnel](crew/personnel.md)
+  * [Troops](crew/troops.md)
+  * [Raids](crew/raids.md)
 
-<hr>
+* **Gathering**
+  * [Mining](gathering/mining.md)
+  * [Fracking](gathering/fracking.md)
+  * [Quarrying](gathering/quarrying.md)
 
-* Inventory
+* **Professions**
+  * [Engineering](professions/engineering.md)
+  * [Gemology](professions/gemology.md)
+  * [Cybernetics](professions/cybernetics.md)
+  * [Draftsmen](professions/draftsmen.md)
+  * [Hacker](professions/hacker.md)
+  * [Archaeology](professions/archaeology.md)
+
+* **Inventory**
   * [Currency](inventory/currency.md)
   * [Gems](inventory/gems.md)
   * [Elements](inventory/elements.md)
@@ -35,24 +37,22 @@
   * [Power Crystals](inventory/power-crystals.md)
   * [Blueprints](inventory/blueprints.md)
 <!--  * [Jewels](inventory/jewels.md) -->
-* Market
+* Black Market
   * [Token Store](market/tokenstore.md)
   * [Black Market](market/blackmarket.md)
-* [Dungeons](dungeons.md)
+
 
 <!-- * Crafting -->
 <!-- * [Runecrafting](crafting/runecrafting.md) -->
 <!-- * [Jewelcrafting](crafting/jewelcrafting.md) -->
 <!-- * [Alchemy](crafting/alchemy.md) -->
 <!-- * [Clans](clans.md) -->
-* [Land](land.md)
-  * [Personnel](land/personnel.md)
-  * [Raids](land/raids.md)
-  * [Portal](land/portal.md)
+
+  
 
 <hr>
 
 * [Patches](patches.md)
 * [Premium](premium.md)
 * [FAQ](faq.md)
-* [Credit](credit.md)
+* [Attributions](credit.md)

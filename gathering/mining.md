@@ -1,4 +1,4 @@
-# Gathering Shards
+# Mining
 
 | Level | Tool Components | Total
 | ---- | ---- | ---- |
